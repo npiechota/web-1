@@ -286,6 +286,7 @@ a:focus {
 	display: inline-block;
 	margin: 30px;
 	overflow: hidden;
+	opacity: 0;
 }
 
 .product-col span {
